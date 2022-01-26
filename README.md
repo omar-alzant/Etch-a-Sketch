@@ -2,6 +2,8 @@
 
 This repo it look like a little place to draw ;
  
+ Note: Use the Grid-color then draw .
+ 
 You can choose your favorite color and background , 
 
 and change the grid size from an input 'range'...
